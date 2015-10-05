@@ -13,6 +13,6 @@ in this class, we'll be recreating generative artworks by media art pioneers usi
 
 * [john whitney #1](/recreating_the_past/whitney_sine_fuzzy/sketch.js)
 
-  ![whitney sine image](/recreating_the_past/whitney_sine_fuzzy/whitney1.jpg)
+  ![whitney sine image](/recreating_the_past/whitney_sine_fuzzy/whitney.jpg)
 
   ![whitney sine animated](/recreating_the_past/whitney_sine_fuzzy/whitney.gif)
