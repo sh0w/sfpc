@@ -1,13 +1,21 @@
 var lastMousePosition;
 var currentlyDrawing = false;
+var startedDrawing = false;
 
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
   background(210);
+  fill(color("black"));
+  textSize(50);
+  text("draw something! :)",100, height/2);
   noFill();
 }
 
 function mousePressed() {
+  if(!startedDrawing) {
+    background(210);
+    startedDrawing = true;
+  }
   currentlyDrawing = true;
   lastMousePosition = {x: mouseX, y: mouseY};
 }
