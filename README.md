@@ -8,11 +8,10 @@ a class about computational poetry
   i used different austrian election programs, and used "tr" to replace letters with whitespace, which resulted in different patterns of punctuation and numbers for each party.
   [more info here](http://www.sarahhoworka.com/projects/wahlpoesie)
   
-  ![neos](/generative_text/neos.png)
-  ![fpoe](/generative_text/fpoe.png)
-  ![gruene](/generative_text/gruene.png)
-  ![gruene](/generative_text/oevp.png)
-  ![gruene](/generative_text/spoe.png)
+  * this party (NEOS) uses the most numbers and € symbols in their election program
+    ![neos](/generative_text/neos.png)
+  * this party (FPÖ) uses the least punctuation out of all parties i compared
+    ![fpoe](/generative_text/fpoe.png)
 
 
 ## "[recreating the past](/recreating_the_past)", taught by zach lieberman
