@@ -2,21 +2,25 @@
 in fall 2015, i'm attending [School for Poetic Computation](http://sfpc.io) and will be posting some of my work here. &lt;3
 
 
-## "[generative text](/generative_text)", taught by allison parrish
+## [generative text](/generative_text), taught by allison parrish
 a class about computational poetry
 * _use the UNIX command-line text processing tools to do something creative with some source text. use a non-poem as input, and make a “poem” as output._
-  i used different austrian election programs, and used "tr" to replace letters with whitespace, which resulted in different patterns of punctuation and numbers for each party.
-  [more info here](http://www.sarahhoworka.com/projects/wahlpoesie)
-  
-  * this party (NEOS) uses the most numbers and € symbols in their election program:
 
-    ![neos](/generative_text/neos.png)
-  * this party (FPÖ) uses the least punctuation out of all parties i compared:
+  i used different austrian election programs, and used "tr" to replace letters with whitespace, which resulted in different patterns of punctuation and numbers for each party.
+  [see all results here](http://www.sarahhoworka.com/projects/wahlpoesie)
+
+  what does its use of numbers and punctuation say about a political party (or its voters)?
   
+  * this party (NEOS) uses the most numbers and '€'-symbols in their election program:
+    
+    ![neos](/generative_text/neos.png)
+
+  * this party (FPÖ) uses the least punctuation out of all parties i compared:
+
     ![fpoe](/generative_text/fpoe.png)
 
 
-## "[recreating the past](/recreating_the_past)", taught by zach lieberman
+## [recreating the past](/recreating_the_past), taught by zach lieberman
 in this class, we'll be recreating generative artworks by media art pioneers using code.
 * [vera molnar #1 (squares)](/recreating_the_past/vera_squares/sketch.js)
   
