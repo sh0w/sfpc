@@ -35,3 +35,8 @@ in this class, we'll be recreating generative artworks by media art pioneers usi
   ![whitney sine image](/recreating_the_past/whitney_sine_fuzzy/whitney.jpg)
 
   ![whitney sine animated](/recreating_the_past/whitney_sine_fuzzy/whitney.gif)
+
+## other experiments
+
+* [face generator](/other_experiments/face_generator/sketch.js)
+  ![faces](/other_experiments/face_generator/faces_draft.png)
