@@ -1,7 +1,7 @@
-# sfpc
-in fall 2015, i'm attending [School for Poetic Computation](http://sfpc.io) and will be posting some of my work here. &lt;3
+# sfpc fall 2015
+i'm attending [School for Poetic Computation](http://sfpc.io) and will be posting some of my work here. &lt;3
 
-[my sfpc blog](http://sarahsfpc.tumblr.com)
+i also post some notes and experiments on my [blog](http://sarahsfpc.tumblr.com).
 
 
 ## [generative text](/generative_text), taught by allison parrish
