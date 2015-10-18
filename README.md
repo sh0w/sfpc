@@ -37,6 +37,7 @@ in this class, we'll be recreating generative artworks by media art pioneers usi
 ## other experiments
 
 * [face generator experiment](/other_experiments/face_generator/sketch.js)
-  i'm wondering how i can best randomly generate faces with a wide range of emotions (w/o using colors & styling). (might turn into a bot? idk)
+  
+  i'm wondering how i can best randomly generate faces with a wide range of emotions (w/o using colors & styling). (might turn into a bot eventually? idk)
   ![faces](/other_experiments/face_generator/faces_draft.png)
 
