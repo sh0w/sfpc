@@ -24,9 +24,7 @@ var distanceNoseMouth = 50;
 var featurePositions = { leftEye:  { x: CANVAS_WIDTH/2 - CANVAS_WIDTH/8, y: CANVAS_HEIGHT/4 }, 
                          rightEye: { x: CANVAS_WIDTH/2 + CANVAS_WIDTH/8, y: CANVAS_HEIGHT/4 },
                          nose:     { x: CANVAS_WIDTH/2, y: CANVAS_HEIGHT/2 },
-                         mouth:     { x: CANVAS_WIDTH/2, y: CANVAS_HEIGHT/2 },
-  
-};
+                         mouth:     { x: CANVAS_WIDTH/2, y: CANVAS_HEIGHT/2 }};
 
 var leftEyeData;
 var rightEyeData;
@@ -53,8 +51,8 @@ function mousePressed() {
 function drawFace() {
   recalcFeaturePositions();
   
-  // draw face!
   background(BG_COLOR);
+  
   push();
   translate(0,50);
   noFill();
@@ -70,11 +68,11 @@ function drawFace() {
 
 function recalcFeaturePositions() {
   leftEyeData =  { x: randomGaussian(featurePositions.leftEye.x,30),
-                  y: randomGaussian(featurePositions.leftEye.y,30),
-                  size: randomGaussian(averageEyeSize,20) };
+                   y: randomGaussian(featurePositions.leftEye.y,30),
+                size: randomGaussian(averageEyeSize,20) };
   rightEyeData = { x: randomGaussian(featurePositions.rightEye.x,30),
-                  y: randomGaussian(featurePositions.rightEye.y,30),
-                  size: randomGaussian(averageEyeSize,20) };
+                   y: randomGaussian(featurePositions.rightEye.y,30),
+                size: randomGaussian(averageEyeSize,20) };
   
   do {
     nosePos = { x: randomGaussian(featurePositions.nose.x,100), y: randomGaussian(featurePositions.nose.y,50)}
