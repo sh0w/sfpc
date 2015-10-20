@@ -88,7 +88,7 @@ function recalcFeaturePositions() {
   drawLidFold = random() < probabilityLidFold;
   drawBelowEye = random() < probabilityTired;
   drawEyebrow = random() < probabilityEyebrows;
-  excitedness = max(0.3,randomGaussian(1.35,0.35));
+  excitedness = max(0.3,randomGaussian(1.4,0.35));
   eyebrowColor = random(50,150);
   
   eyeColor = color(random(200),random(255),random(255),30);

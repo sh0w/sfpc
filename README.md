@@ -42,4 +42,5 @@ in this class, we'll be recreating generative artworks by media art pioneers usi
   
   i'm wondering how i can best randomly generate faces with a wide range of emotions (w/o using colors & styling). (might turn into a bot eventually? idk)
   ![faces](/other_experiments/face_generator/faces_draft.png)
+  ![faces2](/other_experiments/face_generator/draft2.png)
 
