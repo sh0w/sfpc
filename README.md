@@ -3,6 +3,13 @@ i'm attending [School for Poetic Computation](http://sfpc.io) and will be postin
 
 i also post some notes and experiments on my [blog](http://sarahsfpc.tumblr.com).
 
+## shy robot ##
+
+see [sh0w/shyRobot](https://github.com/sh0w/shyRobot)
+
+## average face mirror ##
+
+see [sh0w/averageFaceMirror](https://github.com/sh0w/averageFaceMirror)
 
 ## [generative text](/generative_text), taught by allison parrish
 a class about computational poetry
